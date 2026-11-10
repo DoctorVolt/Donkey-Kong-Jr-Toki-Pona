@@ -1,2 +1,8 @@
 # Donkey-Kong-Jr-Toki-Pona
-A translation of Donkey Kong Jr. for the NES into the constructed language Toki Pona. Posted here in a repository at the recommendation of jan Pawasi.
+This is a full translation of Donkey Kong Jr. into the constructed language Toki Pona. Embark on an adventure to rescue Donkey Kong from Mario!
+
+All text has been edited, along with a small number of graphics containing text. Gameplay is functionally unchanged, but TASes for the original ROM fail due to, I'm pretty sure, RNG being "seeded" differently because of my small changes.
+
+Translation is available only in sitelen Lasina.
+
+Patch is meant to apply to `Donkey Kong Jr. (World) (Rev 1).nes`, AKA `Donkey Kong Jr. (JU).nes`.
