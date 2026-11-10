@@ -5,4 +5,6 @@ All text has been edited, along with a small number of graphics containing text.
 
 Translation is available only in sitelen Lasina.
 
+No AI was used in the making of this romhack. 
+
 Patch is meant to apply to `Donkey Kong Jr. (World) (Rev 1).nes`, AKA `Donkey Kong Jr. (JU).nes`.
